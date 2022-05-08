@@ -3,7 +3,7 @@ package pro.arrays;
 import java.io.*;
 import java.util.*;
 
-    class GFG {
+    class IsStringAnagram {
         public static boolean isAnagram(String a, String b)
         {
             // Check if length of both strings is same or not
