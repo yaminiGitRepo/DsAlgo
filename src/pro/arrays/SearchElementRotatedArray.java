@@ -13,7 +13,7 @@ public class SearchElementRotatedArray {
         int p=findPivot(arr,n);
 
         System.out.println("p="+p);
-        if(k==arr[p]){
+            if(k==arr[p]){
             return p;
         }
         if(arr[0]<=k)
